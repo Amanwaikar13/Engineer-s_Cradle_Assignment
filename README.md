@@ -19,10 +19,10 @@ This project is a full-stack e-commerce application built with React, Next.js, a
 ## Screenshots
 
 ### Signup Page
-![Signup Page](signup-page.jpg)
+![Signup Page](signup-page.png)
 
 ### Login Page
-![Login Page](login-page.jpg)
+![Login Page](login-page.png)
 
 ### Home Page
-![Home Page](productpage.jpg)
+![Home Page](git_.gif)
