@@ -25,4 +25,4 @@ This project is a full-stack e-commerce application built with React, Next.js, a
 ![Login Page](login-page.png)
 
 ### Home Page
-![Home Page](git_.gif)
+![Home Page](gif_.gif)
